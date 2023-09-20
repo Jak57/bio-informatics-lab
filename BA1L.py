@@ -1,3 +1,7 @@
+"""
+https://www.educative.io/answers/how-to-convert-dna-patterns-to-numbers-and-vice-versa
+"""
+
 dic = {
     'A': 0,
     'C': 1,
